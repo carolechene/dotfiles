@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chenecarole.pro@gmail.com
+	name = Carole Chene
